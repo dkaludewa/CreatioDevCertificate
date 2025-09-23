@@ -1,0 +1,18 @@
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\Bin\CrtOpportunityInvoice.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\Bin\CrtOpportunityInvoice.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\obj\Release\CrtOpportunityInvoice.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\obj\Release\CrtOpportunityInvoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\obj\Release\CrtOpportunityInvoice.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\obj\Release\CrtOpportunityInvoice.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\obj\Release\CrtOpportunityInvoice.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\obj\Release\CrtOpportunityInvoice.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\obj\Release\CrtOpportunityInvoice.pdb
+C:\Locals\Local 01\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\Bin\CrtOpportunityInvoice.dll
+C:\Locals\Local 01\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\Bin\CrtOpportunityInvoice.pdb
+C:\Locals\Local 01\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\obj\Release\CrtOpportunityInvoice.csproj.AssemblyReference.cache
+C:\Locals\Local 01\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\obj\Release\CrtOpportunityInvoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Locals\Local 01\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\obj\Release\CrtOpportunityInvoice.AssemblyInfoInputs.cache
+C:\Locals\Local 01\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\obj\Release\CrtOpportunityInvoice.AssemblyInfo.cs
+C:\Locals\Local 01\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\obj\Release\CrtOpportunityInvoice.csproj.CoreCompileInputs.cache
+C:\Locals\Local 01\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\obj\Release\CrtOpportunityInvoice.dll
+C:\Locals\Local 01\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtOpportunityInvoice\Files\obj\Release\CrtOpportunityInvoice.pdb

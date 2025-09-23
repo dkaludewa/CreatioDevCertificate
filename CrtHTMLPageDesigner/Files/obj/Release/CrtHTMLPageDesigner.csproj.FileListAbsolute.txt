@@ -1,0 +1,28 @@
+C:\WebAppRoot\sae_m_seenet8enu_10976781_0605\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\Bin\netstandard\CrtHTMLPageDesigner.deps.json
+C:\WebAppRoot\sae_m_seenet8enu_10976781_0605\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\Bin\netstandard\CrtHTMLPageDesigner.dll
+C:\WebAppRoot\sae_m_seenet8enu_10976781_0605\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\Bin\netstandard\CrtHTMLPageDesigner.pdb
+C:\WebAppRoot\sae_m_seenet8enu_10976781_0605\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.csproj.AssemblyReference.cache
+C:\WebAppRoot\sae_m_seenet8enu_10976781_0605\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebAppRoot\sae_m_seenet8enu_10976781_0605\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.AssemblyInfoInputs.cache
+C:\WebAppRoot\sae_m_seenet8enu_10976781_0605\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.AssemblyInfo.cs
+C:\WebAppRoot\sae_m_seenet8enu_10976781_0605\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.csproj.CoreCompileInputs.cache
+C:\WebAppRoot\sae_m_seenet8enu_10976781_0605\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.dll
+C:\WebAppRoot\sae_m_seenet8enu_10976781_0605\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\Bin\CrtHTMLPageDesigner.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\Bin\CrtHTMLPageDesigner.pdb
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.csproj.AssemblyReference.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.GeneratedMSBuildEditorConfig.editorconfig
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.AssemblyInfoInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.AssemblyInfo.cs
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.csproj.CoreCompileInputs.cache
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.dll
+C:\CI\work\BuildProduct\Deploy\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.pdb
+C:\Locals\Local 01\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\Bin\CrtHTMLPageDesigner.dll
+C:\Locals\Local 01\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\Bin\CrtHTMLPageDesigner.pdb
+C:\Locals\Local 01\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.csproj.AssemblyReference.cache
+C:\Locals\Local 01\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Locals\Local 01\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.AssemblyInfoInputs.cache
+C:\Locals\Local 01\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.AssemblyInfo.cs
+C:\Locals\Local 01\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.csproj.CoreCompileInputs.cache
+C:\Locals\Local 01\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.dll
+C:\Locals\Local 01\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtHTMLPageDesigner\Files\obj\Release\CrtHTMLPageDesigner.pdb
