@@ -1038,7 +1038,9 @@
 		</Reference>
 	</ItemGroup>
 	<ItemGroup Label="Standalone package external assembly references" />
-	<ItemGroup Label="Entity Files" />
+	<ItemGroup Label="Entity Files">
+		<Compile Remove="$(RelativePkgFolderPath)/DevClassic/Schemas/UsrRealtyTypeClassic/UsrRealtyTypeClassic.cs" Condition="Exists('$(RelativePkgFolderPath)/DevClassic/Schemas/UsrRealtyTypeClassic/UsrRealtyTypeClassic.cs')" />
+	</ItemGroup>
 	<ItemGroup Label="3rd Party References"></ItemGroup>
 	<Target Name="Paths" BeforeTargets="BeforeCompile">
 		<Message Importance="High" Text="*********** Project [$(MSBuildProjectFile)] TargetFramework [$(TargetFramework)] CoreTargetFramework [$(CoreTargetFramework)]" />
